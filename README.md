@@ -18,3 +18,5 @@ O objetivo é treinar e melhorar meus conhecimentos em HTML e CSS.
 
 ## 🎯 Objetivo
 Praticar desenvolvimento web e criar um espaço onde pessoas possam conhecer mais sobre mim.
+
+##Link do pages: https://erik13639.github.io/Projeto-Portfolio/
