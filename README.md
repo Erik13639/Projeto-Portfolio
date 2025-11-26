@@ -9,7 +9,7 @@ O objetivo é treinar e melhorar meus conhecimentos em HTML e CSS.
 
 ## 📄 O que o projeto contém
 - Página Sobre Mim
-- Mural de fotos minhas
+- fotos minhas
 - Tabela com minhas habilidades
 - Tabela com minhas experiências
 - Formulário de contato
